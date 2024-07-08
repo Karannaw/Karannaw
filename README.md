@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karannaw
-- 👀 I’m interested in Software development, webpage frontend development. I also have intrest in video and photo editing.
-- 🌱 I’m currently in 2'nd year pursuing BBA-CA
+- 👀 I’m interested in Full-stack Web Devlopment, intermediate in Software Development. I also have intrest in video and photo editing.
+- 🌱 I’m currently in 2'nd year pursuing MCA at MIT-WPU, Pune
 - 📫 How to reach me karan09080@gmail.com
 
 <!---
